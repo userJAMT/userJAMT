@@ -1,25 +1,29 @@
-# Hola mi nombre es José Méndez
-También conocido como userJAMT en GitHub
-# ¿Quién soy?
-Soy un programador Fullstack graduado de soyHenry y estudiante de ingeniería electrónica. 
+# Hi my name is Jose Mendez
+AKA userJAMT in Github
 
-En un principio me fije por la ingeniería electrónica y me fui decantando por la rama computacional de la misma. Ahora decidí empezar en el mundo de la programación para aprender y generar nuevas experiencias que me ayudarán en un futuro a juntar mi nueva y mi antigua pasión.
-# ¿Qué Hago?
-Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formación como programador.
-# ¿Qué tecnologías uso?
-Actualmente manejo las siguientes tecnologías:
+# Who am I?
+I am a Full Stack Developer graduated from soyHenry and an Electronic Engineering student.
 
-- Lenguajes: Javascript, Typescript, HTML y CSS.
-- Front-end: React, React-Redux y NextJS.
-- Back-end: NodeJS - Express, Sequelize y Prisma.
-- Database: PostgreSQL.
-- Librerias: Nodemailer, Cloudinary, Bootstrap, Stripe y NextAuth.
-- Extras: Git - Github y metodología de trabajo SCRUM.
-# Contáctame
-Correo: jmendez4tob@gmail.com
+At the beginning of my career I was studying electronic engineering and opting for the computational branch of it. Now I decided to enter in the world of programming to learn and generate new experiences that will help me in the future to combine my new and my old passion.
+
+# What am I doing?
+Currently I am dedicated to carrying out personal projects that allow me to advance in my training as a programmer.
+
+# What technologies do I use?
+I currently manage the following technologies:
+
+- Javascript | Typescript | HTML | CSS. 
+- Front-end: React | Redux | NextJS. 
+- Back-end: NodeJS | Express | Sequelize | Prisma. 
+- Database: PostgreSQL. 
+- Libraries: Nodemailer | Cloudinary | Bootstrap | Stripe | NextAuth
+- Extras: Git | Github | SCRUM. 
+
+# Contact me
+email: jmendez4tob@gmail.com
 
 <a href="https://portfolio-userjamt.vercel.app/">Portfolio</a>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jos%C3%A9-m%C3%A9ndez-6215b6150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús-torrecilla-4324b9214" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/userjamt/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="userJAMT" height="30" width="40" /></a>
 </p>
