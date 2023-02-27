@@ -4,7 +4,7 @@ AKA userJAMT in Github
 # Who am I?
 I am a Full Stack Developer graduated from soyHenry and an Electronic Engineering student.
 
-At the beginning of my career I was studying electronic engineering and opting for the computational branch of it. Now I decided to enter in the world of programming to learn and generate new experiences that will help me in the future to combine my new and my old passion.
+At the middle of my career I was opting for the computational branch of it. Now I decided to enter in the world of programming to learn and generate new experiences that will help me in the future to combine my new and my old passion.
 
 # What am I doing?
 Currently I am dedicated to carrying out personal projects that allow me to advance in my training as a programmer.
